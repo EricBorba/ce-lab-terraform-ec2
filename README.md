@@ -114,10 +114,3 @@ terraform apply
 terraform destroy
 ```
 
-## Grading (100pts)
-
-- Security groups: 25pts
-- EC2 deployment: 30pts
-- User data: 15pts
-- Multiple instances: 15pts
-- Documentation: 15pts
